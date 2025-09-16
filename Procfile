@@ -1,1 +1,0 @@
-web: gunicorn expense_app:app
